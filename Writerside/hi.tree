@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                 name="Help Instance"
+                 start-page="Default-topic.md">
+
+    <toc-element topic="Default-topic.md">
+        <toc-element topic="ProjectsAndDemos.md">
+            <toc-element topic="400-Characters-CMC-Bench.md"/>
+            <toc-element topic="Abandone-Apartment.md"/>
+            <toc-element topic="Attic-Scene.md"/>
+            <toc-element topic="Callisto-BRDF-Demos.md"/>
+            <toc-element topic="Crash-Bandicoot.md"/>
+            <toc-element topic="Physics-Cube-Bench.md"/>
+            <toc-element topic="PhysX-Instanced-Subsystem.md"/>
+            <toc-element topic="PhysXTest.md"/>
+            <toc-element topic="Stylized-Raytracing-Demo.md"/>
+            <toc-element topic="Tech-Demo-Project.md"/>
+        </toc-element>
+        <toc-element topic="Technical-Documentation.md">
+            <toc-element topic="Engine-Coding-Guidelines.md"/>
+            <toc-element topic="Engine-Systems.md"/>
+        </toc-element>
+        <toc-element topic="Feature-Documentation.md">
+            <toc-element topic="DDGI-and-Raytracing.md" />
+        </toc-element>
+    </toc-element>
+
+</instance-profile>
